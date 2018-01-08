@@ -1,8 +1,11 @@
 ![Polytech](http://www.polytechnice.fr/jahia/jsp/jahia/templates/inc/img/polytech_nicesophia.png)
 Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Polytech'Nice Sophia
 
-# Hardcore Metal Robot #
+# Musical-e Robot #
 
-Le Hardcore Metal Robot est un robot ayant deux fonctionnalités : 
-- il est d'une part télécommandé grâce à une connexion bluetooth
-- il réagit d'autre part à la musique en changeant l'expression sur son écran LCD et en actionnant ses bras motorisés.
+Le Musical-e Robot est un robot ayant plusieurs fonctionnalités : 
+- il peut être télécommandé
+- il diffuse de la musique et danse dessus
+- il chante des musiques qu'il a apprises en bit
+- il peut changer l'expression de son visage
+Ces commandes peuvent être choisies grâce à une application bluetooth.
