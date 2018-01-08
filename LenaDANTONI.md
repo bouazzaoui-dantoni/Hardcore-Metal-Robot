@@ -1,6 +1,6 @@
 # Cahier de suivi de Léna D'ANTONI #
  
-compte-rendu du 18 décembre 2017 : 
+### compte-rendu du 18 décembre 2017 : ###
  
 première idée de projet --> Hardcore Metal Robot
 Deux modes :
@@ -9,7 +9,7 @@ Eventuellement lui faire éviter les obstacles si on avance vite.
 - le mode musique. Il réagit à la musique : il s’arrête, bouge ses bras (des tiges) dans des sens opposés, et l’écran se modifie pour afficher un autre smiley.
 Reste à déterminer du mode d’acquisition du son et d’éventuelles autres réactions du robot (son expression change suivant le style de musique qu’il détecte, par exemple).
  
-compte-rendu du 18 janvier 2018 :
+### compte-rendu du 18 janvier 2018 : ###
  
 évolution du projet --> Musical-e Robot
 
@@ -17,7 +17,7 @@ après questionnements et reflexions on décide de mettre en place un robot à p
 Il aura les options suivantes :
 - robot télécommandé sur des chenilles qui évite les murs grâce un capteur ultra son. Ses déplacements sont gérés par une application bluetooth.
 - robot dansant qui diffuse sur une enceinte la musique programmée et danse dessus en tournant sur lui-même et agitant ses bras motorisés
-- robot chantant une musique en bits qu'il aura apprise auparavant.
+- robot chantant une musique en style 8-bit qu'il aura apprise auparavant.
 - robot changeant de tête selon le bouton sur lequel on appuit. Son expression sera diffusée sur un écran LCD.
 Les options seront disponibles sur l'application android, l'utilisateur n'aura qu'à choisir la fonctionnalité qu'il veut.
 Ces options ne seront peut-être pas toutes réalisées. 
@@ -26,6 +26,6 @@ matériel :
 - kit chenilles + moteurs + socle (hérité du projet wall-e)
 - deux moteurs continus sur lesquels on collera des tiges pour les bras
 - un capteur ultra-son
-- un écran LCD environ 10x8cm
-- une enceinte
-- une prise jack
+- un écran LCD 3,5 pouces noir et blanc
+- un speaker relié à l'Arduino pour diffuser une musique
+- un Piezo Speaker pour la musique en style 8-bit
