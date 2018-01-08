@@ -8,4 +8,5 @@ Le Musical-e Robot est un robot ayant plusieurs fonctionnalités :
 - il diffuse de la musique et danse dessus
 - il chante des musiques qu'il a apprises en bit
 - il peut changer l'expression de son visage
+
 Ces commandes peuvent être choisies grâce à une application bluetooth.
