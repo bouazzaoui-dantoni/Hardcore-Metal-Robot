@@ -6,7 +6,7 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 Le Musical-e Robot est un robot ayant plusieurs fonctionnalités : 
 - il peut être télécommandé
 - il diffuse de la musique et danse dessus
-- il chante des musiques qu'il a apprises en dans un style 8-bit
+- il chante des musiques qu'il a apprises dans un style 8-bit
 - il peut changer l'expression de son visage
 
 Ces commandes sont choisies grâce à une application bluetooth.
