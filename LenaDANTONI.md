@@ -32,8 +32,9 @@ matériel :
 
 ### compte-rendu du 15 janvier 2018 : ###
 
-Pour des questions de puissance, on décide d'abandonner l'idée des chenilles qui auraient ralenti l'avancée du robot pour des roues omnidirectionnelles plus adaptées, notamment pour son option danse.
+Pour des questions de puissance, on décide d'abandonner l'idée des chenilles qui auraient ralenti l'avancée du robot pour des roues omnidirectionnelles plus adaptées, notamment pour son option danse. On essaye pendant 1h30 de comprendre le Motor Control Shield de Arduino, qui était déjà fixé sur les moteurs continus du châssis, mais on n'a pas réussi à trouver de tuto convenable et des codes assez compréhensibles pour être adaptés. 
+Finalement on se tourne vers une carte L298N et après quelques recherches et test on finit par réussir à faire tourner les moteurs, donc les roues.
 
 nouveau matériel : 
 - roues omnidirectionnelles + châssis
-- carte L298N-H-Bridge
+- carte L298N (H-Bridge)
