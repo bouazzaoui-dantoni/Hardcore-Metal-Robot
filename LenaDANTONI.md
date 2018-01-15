@@ -9,7 +9,7 @@ Eventuellement lui faire éviter les obstacles si on avance vite.
 - le mode musique. Il réagit à la musique : il s’arrête, bouge ses bras (des tiges) dans des sens opposés, et l’écran se modifie pour afficher un autre smiley.
 Reste à déterminer du mode d’acquisition du son et d’éventuelles autres réactions du robot (son expression change suivant le style de musique qu’il détecte, par exemple).
  
-### compte-rendu du 18 janvier 2018 : ###
+### compte-rendu du 8 janvier 2018 : ###
  
 évolution du projet --> Musical-e Robot
 
@@ -23,9 +23,17 @@ Les options seront disponibles sur l'application android, l'utilisateur n'aura q
 Ces options ne seront peut-être pas toutes réalisées. 
  
 matériel : 
-- kit chenilles + moteurs + socle (hérité du projet wall-e)
+- kit chenilles + moteurs + socle 
 - deux moteurs continus sur lesquels on collera des tiges pour les bras
 - un capteur ultra-son
 - un écran LCD 3,5 pouces noir et blanc
 - un speaker relié à l'Arduino pour diffuser une musique
 - un Piezo Speaker pour la musique en style 8-bit
+
+### compte-rendu du 15 janvier 2018 : ###
+
+Pour des questions de puissance, on décide d'abandonner l'idée des chenilles qui auraient ralenti l'avancée du robot pour des roues omnidirectionnelles plus adaptées, notamment pour son option danse.
+
+nouveau matériel : 
+- roues omnidirectionnelles + châssis
+- carte L298N-H-Bridge
