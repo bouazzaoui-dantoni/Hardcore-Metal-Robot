@@ -11,3 +11,10 @@ Il y aura probablement 4 flèches pour diriger le robot et des boutons pour lui 
 Son visage sera représenté sur un écran. 
 La musique sortirait d'une enceinte sur le robot mais nous ne sommes pas encore sûrs de la manière dont nous allons nous y prendre.
 Il danserait en bougeant ses bras (deux tiges au bout de deux moteurs) et en tournant sur lui même(chenilles comme Wall-E pour se déplacer).
+
+Séance du 15 janvier 2018:
+Finalement nous avons récupéré le châssis que les étudiants de l'année dernière avaient utilisé pour les NERF télécommandés. Il possède des roues omnidirectionnelles liées à trois moteurs, qui permettront au robot de se déplacer dans toutes les directions et de danser.
+Un motor shield était installé sur le châssis. Nous avons essayé pendant un moment de comprendre son fonctionnement puis nous avons opté pour le remplacer par un double L298n pour gérer les trois moteurs. Nous avons commencé à découvrir les commandes disponibles et à contrôler un moteur.
+
+Séance du 22 janvier 2018:
+Présentation et ...
