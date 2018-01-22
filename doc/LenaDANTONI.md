@@ -48,8 +48,8 @@ nouveau matériel :
 - 2 servo-moteurs
 
 Grâce au module, je peux modifier notre code de base (qui permet seulement le déplacement du robot). J'y ajoute tout d'abord 3 nouvelles fonctions :
-• forward() qui permet d'aller tout droit en bougeant seulement deux roues
-• rigth() qui permet de tourner à droite en faisant tourner toutes les roues dans le sens horaire
-• left() qui permet de tourner à gauche en faisant tourner toutes les roues dans le sens antihoraire
+- forward() qui permet d'aller tout droit en bougeant seulement deux roues
+- rigth() qui permet de tourner à droite en faisant tourner toutes les roues dans le sens horaire
+- left() qui permet de tourner à gauche en faisant tourner toutes les roues dans le sens antihoraire
 Dans le fonction loop() j'inclus des boucles while : tant que l'utilisateur appuie sur 'x', 'y' ou 'z' le code exécutera la fonction forward(), right() ou left().
 En revanche le montage avec le module bluetooth ne marche pas, il faudra voir ça dans la semaine.
