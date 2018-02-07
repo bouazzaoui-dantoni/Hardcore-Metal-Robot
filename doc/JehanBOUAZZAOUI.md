@@ -1,6 +1,6 @@
 # Cahier de suivi de Jehan BOUAZZAOUI #
 
-##Séance du 8 janvier 2018:##
+Séance du 8 janvier 2018:
 Nous avons finalement décidé de créer un robot qui aurait plusieurs options:
 -il serait télécommandé,
 -il pourrait "chanter" une petite mélodie en style 8-bit
