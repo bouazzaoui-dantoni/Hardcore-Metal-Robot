@@ -22,4 +22,4 @@ On récupère un écran 1.8 SPI TFT 128\*60 pour représenter le visage du robot
 On essaye de connecter le module bluetooth mais ça ne fonctionne pas.
 
 Séance du 7 février 2018:
-J'arrive à allumer l'écran mais j'ai encore du mal à le controler. Le module bluetooth fonctionne.
+J'arrive à allumer l'écran mais j'ai encore du mal à le controler. Le module bluetooth fonctionne enfin.
