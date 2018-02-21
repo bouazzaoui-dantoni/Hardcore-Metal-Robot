@@ -59,6 +59,9 @@ En revanche le montage avec le module bluetooth ne marche pas, il faudra voir ç
 
 Le cablage pour le bluetooth a enfin été réussi. Premier test d'un code mais la boucle ne marche pas car le robot roule indéfiniment sans changer de direction.
 
+nouveau matériel :
+- écran LCD
+
 ### compte-rendu du 21 février 2018 : ###
 
 Nouveau code bluetooth avec introduction d'une nouvelle fonction stop() qui arrête le robot. Cette fonction se déclenche losqu'on arrête d'appuyer sur le bouton bluetooth. En changeant également les boucles, le code marche désormais. Seulement une des 3 roues semble avoir un faux contact.
