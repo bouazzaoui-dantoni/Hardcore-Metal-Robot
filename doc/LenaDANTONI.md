@@ -54,3 +54,13 @@ Grâce au module, je peux modifier notre code de base (qui permet seulement le d
 
 Dans le fonction loop() j'inclus des boucles while : tant que l'utilisateur appuie sur 'x', 'y' ou 'z' le code exécutera la fonction forward(), right() ou left().
 En revanche le montage avec le module bluetooth ne marche pas, il faudra voir ça dans la semaine.
+
+### compte-rendu du 7 février 2018 : ###
+
+Le cablage pour le bluetooth a enfin été réussi. Premier test d'un code mais la boucle ne marche pas car le robot roule indéfiniment sans changer de direction.
+
+### compte-rendu du 21 février 2018 : ###
+
+Nouveau code bluetooth avec introduction d'une nouvelle fonction stop() qui arrête le robot. Cette fonction se déclenche losqu'on arrête d'appuyer sur le bouton bluetooth. En changeant également les boucles, le code marche désormais. Seulement une des 3 roues semble avoir un faux contact.
+ 
+ 
