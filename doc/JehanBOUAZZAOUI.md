@@ -23,3 +23,6 @@ On essaye de connecter le module bluetooth mais ça ne fonctionne pas.
 
 Séance du 7 février 2018:
 J'arrive à allumer l'écran mais j'ai encore du mal à le controler. Le module bluetooth fonctionne enfin.
+
+Séance du 21 février 2018
+J'arrive à controler l'écran. Les premiers visages du robot sont crées et affichés sur l'écran.
