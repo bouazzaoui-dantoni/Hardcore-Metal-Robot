@@ -66,4 +66,12 @@ nouveau matériel :
 
 Nouveau code bluetooth avec introduction d'une nouvelle fonction stop() qui arrête le robot. Cette fonction se déclenche losqu'on arrête d'appuyer sur le bouton bluetooth. En changeant également les boucles, le code marche désormais. Seulement une des 3 roues semble avoir un faux contact.
  
+ ### compte-rendu du 21 mars 2018 : ###
  
+Les roues posent toujours problème même avec une batterie rechargeable de 12V. J'ai essayé chaque roue dans les deux directions pour savoir s'il y en avait une avec un problème particulier mais globalement elles ont du mal à tourner (sauf quand le robot est porté, elles roulent plus facilement mais parfois avec des accroches)
+
+J'ai commencé à mettre en place le code des servo-moteurs (qui servirons de bras au robot). Comme avec la roue, la liaison avec le bluetooth pose problème à cause d'une boucle infini.
+
+nouveau matériel :
+- batterie rechargeable 12V
+- module SD Arduino
