@@ -30,4 +30,7 @@ J'arrive à controler l'écran. Les premiers visages du robot sont crées et aff
 Séance du 21 mars 2018
 Ma carte arduino est détruite. Pendant la séance j'ai cherché comment faire en sorte que le robot émette de la musique à partir d'une enceinte. J'ai trouvé quelque chose mais je ne peux du coup pas le tester.
 
+Séance du 28 mars 2018
+J'ai récupéré une nouvelle carte.J'ai presque fini de coder les visages.
+
 
