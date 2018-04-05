@@ -75,3 +75,18 @@ J'ai commencé à mettre en place le code des servo-moteurs (qui servirons de br
 nouveau matériel :
 - batterie rechargeable 12V
 - module SD Arduino
+
+### compte-rendu du 28 mars 2018 : ###
+
+Le code des servo-moteurs tourne toujours à l'infini, il faut vraiment régler ça. Il y a plusieurs possibilités à cela : la boucle est mal choisie, ou bien il y a une mauvaise liaison avec l'application bluetooth.
+Avec l'aide d'un des professeurs, nous arrivons à la conclusion que le problème ne vient pas des roues mais apparemment du code. En effet les roues fonctionnent en y appliquant une tension donc la possibilité est que le code soit mal écrit.
+
+Avec toutes les options qui commencent à prendre forme, nous nous demandons comment tous les câblages pourront tenir dans une seule carte Arduino. Il serait donc préférable d'en avoir une méga.
+
+### compte-rendu du 5 avril 2018 : ###
+
+Nous faison la présentaiton de mi-parcours de notre projet.
+
+Nous prenons commande pour une carte Arduino méga.
+
+La roue du motor A est celle qui ne fonctionne pas. Toute seule elle tourne dans un sens et dans l'autre correctement (grâce à un code qui teste les roues). Mais dans le programme principal elle ne fonctionne plus et je ne comprends pas pourquoi. Je décide pour le moment de ne plus l'utiliser.
