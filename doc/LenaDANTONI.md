@@ -90,3 +90,11 @@ Nous faison la présentaiton de mi-parcours de notre projet.
 Nous prenons commande pour une carte Arduino méga.
 
 La roue du motor A est celle qui ne fonctionne pas. Toute seule elle tourne dans un sens et dans l'autre correctement (grâce à un code qui teste les roues). Mais dans le programme principal elle ne fonctionne plus et je ne comprends pas pourquoi. Je décide pour le moment de ne plus l'utiliser.
+
+### compte-rendu du 4 mai 2018 : ###
+
+Nous recevons le carte Arduino Mega. Je rebranche les moteurs, tout re-fonctionne parfaitement. Je rebranche ensuite le bluetooth et rien à y faire ça ne veut pas marcher. C'est une fois chez moi que je me suis rendue compte que j'avais branché le TX et le RX sur des ports non adaptés.
+
+### compte-rendu du 14 mai 2018 : ###
+
+La tête est fixée au corps du robot. Les roues ont de nouveau des problèmes même après recâblage. J'ai re-tenté de brancher le servo-moteur mais il semble prendre beaucoup d'énergie car l'écran clignotte et se brouille.
