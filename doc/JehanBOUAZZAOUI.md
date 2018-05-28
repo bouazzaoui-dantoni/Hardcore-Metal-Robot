@@ -35,6 +35,6 @@ J'ai récupéré une nouvelle carte.J'ai presque fini de coder les visages.
 
 Dernière séance:
 Nous passons sur une arduino Mega pour pouvoir mettre en commun nos travaux avec Léna car nous avons besoin de beaucoup d'entrées /sorties. 
-J'utilise une librarie qui permet de lire un fichier audio (.wav) à partir d'une carte SD pour émettre de la musique àtravers une enceinte reliée à l'arduino.
+J'utilise une librarie qui permet de lire un fichier audio (.wav) à partir d'une carte SD pour émettre de la musique à travers une enceinte reliée à l'arduino. Il y a une musique par émotion correspondant au visage du robot.
 
 
