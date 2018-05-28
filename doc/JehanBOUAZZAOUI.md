@@ -33,4 +33,8 @@ Ma carte arduino est détruite. Pendant la séance j'ai cherché comment faire e
 Séance du 28 mars 2018
 J'ai récupéré une nouvelle carte.J'ai presque fini de coder les visages.
 
+Dernière séance
+Nous passons sur une arduino Mega pour pouvoir mettre en commun nos travaux avec Léna car nous avons besoin de beaucoup d'entrées /sorties. 
+J'utilise une librarie qui permet de lire un fichier audio (.wav) à partir d'une carte SD pour émettre de la musique àtravers une enceinte reliée à l'arduino.
+
 
