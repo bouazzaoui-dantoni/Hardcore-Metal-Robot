@@ -25,3 +25,5 @@ Ces commandes sont choisies grâce à une application bluetooth.
   - une carte L298N (H-Bridge) qui contrôle les moteurs des roues
   - un module bluetooth HC-06 qui permet la liaison bluetooth entre le téléphone et le robot
   - une enceinte qui diffuse la musique à partir de la carte Arduino Mega 2560
+
+![robot joie](https://github.com/bouazzaoui-dantoni/Musical-e-Robot/blob/master/gallery/photos/joie.jpg "robot joie")
