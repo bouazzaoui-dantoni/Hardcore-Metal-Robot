@@ -26,4 +26,4 @@ Ces commandes sont choisies grâce à une application bluetooth.
   - un module bluetooth HC-06 qui permet la liaison bluetooth entre le téléphone et le robot
   - une enceinte qui diffuse la musique à partir de la carte Arduino Mega 2560
 
-<center><img src="https://github.com/bouazzaoui-dantoni/Musical-e-Robot/blob/master/gallery/photos/joie.jpg" height="400" /></center>
+<img src="https://github.com/bouazzaoui-dantoni/Musical-e-Robot/blob/master/gallery/photos/joie.jpg" height="400" />
