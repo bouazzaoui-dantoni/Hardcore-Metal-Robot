@@ -20,10 +20,12 @@ Ces commandes sont choisies grâce à une application bluetooth.
   - un châssis avec des roues omnidirectionnelles qui permettent le déplacement télécommandé du robot
   - deux servo-moteurs qui servent à articuler les bras
   - un écran LCD qui représente la tête du robot, il affiche une expression différente selon le mode choisi
+  - une batterie rechargeable
 - modules
   - un capteur ultra-son pour faire éviter les obstacles au robot
   - une carte L298N (H-Bridge) qui contrôle les moteurs des roues
   - un module bluetooth HC-06 qui permet la liaison bluetooth entre le téléphone et le robot
+  - un module microSD adapter qui permet de lire notre carte SD
   - une enceinte qui diffuse la musique à partir de la carte Arduino Mega 2560
 
 <img src="https://github.com/bouazzaoui-dantoni/Musical-e-Robot/blob/master/gallery/photos/joie.jpg" height="400" />
